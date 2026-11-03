@@ -1,10 +1,11 @@
 {
-    "version":  "3.3.0",
-    "versionCode":  11,
-    "apk":  "https://github.com/cececha-web/pocket-budget-wydania/releases/download/v3.3.0/MojBudzet-3.3.0.apk",
-    "size":  32664747,
+    "version":  "3.3.1",
+    "versionCode":  12,
+    "apk":  "https://github.com/cececha-web/pocket-budget-wydania/releases/download/v3.3.1/MojBudzet-3.3.1.apk",
+    "size":  43107941,
     "notes":  [
                   "Aktualizacje z GitHuba",
-                  "Nowa ikona aplikacji"
+                  "Nowa ikona aplikacji",
+                  "Poprawka uruchamiania"
               ]
 }
