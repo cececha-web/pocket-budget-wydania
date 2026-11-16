@@ -1,11 +1,9 @@
 {
-  "version": "3.4.0",
-  "versionCode": 14,
-  "apk": "https://github.com/cececha-web/pocket-budget-wydania/releases/download/v3.4.0/MojBudzet-3.4.0.apk",
-  "size": 52209482,
+  "version": "3.4.1",
+  "versionCode": 15,
+  "apk": "https://github.com/cececha-web/pocket-budget-wydania/releases/download/v3.4.1/MojBudzet-3.4.1.apk",
+  "size": 52208502,
   "notes": [
-    "Karty lojalnościowe (także bez PIN-u)",
-    "Skanowanie kodu karty aparatem",
-    "Skrót do kart na ikonie aplikacji"
+    "Poprawka dodawania kart"
   ]
 }
